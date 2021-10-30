@@ -7,5 +7,5 @@ https://www.reddit.com/r/3Dprinting/comments/qic7gg/i_think_ive_invented_a_new_k
 I'll add more details later =)
 
 For now, feel free to poke around the Grasshopper algorithm
-Or go print the sample model from over here:
+or go print the sample model from over here:
 https://www.thingiverse.com/thing:5043958
