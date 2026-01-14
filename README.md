@@ -9,3 +9,8 @@ I'll add more details later =)
 For now, feel free to poke around the Grasshopper algorithm
 or go print the sample model from over here:
 https://www.thingiverse.com/thing:5043958
+
+## Video demo
+Click the image below to watch the video.
+
+[![Watch the video](https://img.youtube.com/vi/Set2plWKEBs/maxresdefault.jpg)](https://youtu.be/Set2plWKEBs)
